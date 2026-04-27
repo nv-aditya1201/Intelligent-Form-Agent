@@ -123,7 +123,7 @@ Handling 429 API Errors: Free-tier AI APIs have strict Requests-Per-Minute (RPM)
 * **Session State Management:** Cache document uploads and chat history using Streamlit's st.session_state to enable seamless tab navigation without data loss or re-processing.
 
 ## 📧 Contact
-Shreya Priyadrshni
-📧 shreyamgm16@gmail.com
+Nunavathu Venkata Aditya
+📧 venkataditya13096@gmail.com
 
-🔗 https://github.com/shreya-1634
+🔗 https://github.com/nv-aditya1201
